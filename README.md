@@ -34,7 +34,7 @@
 
 (readme 작성자인 LimHyeongGyun의 파트만 기술 하였습니다.)
 
-<h2 id="project-files-description"> 3. 프로젝트 파일 (Stop_It/Assets/Draw, Player) </h2>
+<h2 id="project-files-description"> 3. 프로젝트 파일 (Stop_It/GGJ23/Assets/Draw, Player) </h2>
 <li><b>/Draw</b> - </li>
 <li><b>/Player</b> - </li>
 
