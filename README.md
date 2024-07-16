@@ -4,7 +4,7 @@
 <div align=center> <img src="./ImageFolder/GameImg.png" width="70%" heigh="30%"> </div>
 </div>
 <li> 개발기간: 2023.07.28 ~ 2024.07.30
-<li> 개발인원: 기획:1 TA:1 프로그래머:2
+<li> 개발인원: 기획:1 아트:1 프로그래머:2
 <li> 형상관리툴: GitHub
 
 <!-- Contents --!>
