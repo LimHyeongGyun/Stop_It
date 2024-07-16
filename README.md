@@ -19,6 +19,7 @@
     <li><a href="#tech"> 기술/프레임워크 </a></li>
     <li><a href="#screen-shot"> 스크린샷</a></li>
     <li><a href="#download-link"> 게임 다운로드 </a></li>
+    <li><a href="#Pv-link"> Pv영상 링크 </a></li>
   </ol>
 </details>
 <h2 id="about-the-project"> 1. 프로젝트 설명 </h2>
