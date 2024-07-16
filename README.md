@@ -35,8 +35,8 @@
 (readme 작성자인 LimHyeongGyun의 파트만 기술 하였습니다.)
 
 <h2 id="project-files-description"> 3. 프로젝트 파일 (Stop_It/GGJ23/Assets/Draw, Player) </h2>
-<li><b>/Draw</b> - </li>
-<li><b>/Player</b> - </li>
+<li><b>/Draw</b> - 한붓그리기 기능, 선을 그리고 다시 그렸을 때 선이 지워지는 기능</li>
+<li><b>/Player</b> - 두 종족이 서로를 인식하고 가까운 종족을 쫓아가고 공격하는 기능</li>
 
 <h2 id="tech"> 4. 기술/프레임워크 </h2>
 <li>Programming <img src="https://img.shields.io/badge/C%23-99CC00?style=for-the-badge"></li>
