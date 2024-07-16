@@ -52,5 +52,6 @@
 </div>
 
 <h2 id="download-link"> 6.게임 다운로드</h2>
-<li>https://drive.google.com/drive/folders/1SL0G-FXH0FqEGWVkzLijlPPWnmBeDm_R
-https://youtu.be/r2C3uN4v4VA?si=6s4Vgq_Tci0bhnqz
+<li>https://drive.google.com/drive/folders/1BfMmo1ZSj39TPWGywhvWeOsDKiYvwLWb
+<h2 id="Pv-link"> 7.Pv영상 링크</h2>
+<li>https://youtu.be/r2C3uN4v4VA?si=6s4Vgq_Tci0bhnqz
